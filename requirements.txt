@@ -1,2 +1,2 @@
-fhir.resources==6.1.0  # Versión sugerida para recursos FHIR
-requests==2.31.0       # Para hacer solicitudes HTTP
+fhir.resources>=8.0.0  # compatible con pydantic 2 y Python 3.12+
+requests>=2.31.0       # Para hacer solicitudes HTTP
